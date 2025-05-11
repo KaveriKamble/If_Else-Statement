@@ -1,0 +1,14 @@
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\bin\Debug\net9.0\If_Else Statement.exe
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\bin\Debug\net9.0\If_Else Statement.deps.json
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\bin\Debug\net9.0\If_Else Statement.runtimeconfig.json
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\bin\Debug\net9.0\If_Else Statement.dll
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\bin\Debug\net9.0\If_Else Statement.pdb
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\obj\Debug\net9.0\If_Else Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\obj\Debug\net9.0\If_Else Statement.AssemblyInfoInputs.cache
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\obj\Debug\net9.0\If_Else Statement.AssemblyInfo.cs
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\obj\Debug\net9.0\If_Else Statement.csproj.CoreCompileInputs.cache
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\obj\Debug\net9.0\If_Else Statement.dll
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\obj\Debug\net9.0\refint\If_Else Statement.dll
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\obj\Debug\net9.0\If_Else Statement.pdb
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\obj\Debug\net9.0\If_Else Statement.genruntimeconfig.cache
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Week2\Code Session 1\If_Else Statement\If_Else Statement\obj\Debug\net9.0\ref\If_Else Statement.dll
